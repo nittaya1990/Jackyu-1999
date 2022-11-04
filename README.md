@@ -34,7 +34,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently a student of **Jishou University**.
+- 👨‍🏛 I am currently a student of **JSU**.
 - 💻 Major is **Computer Science and Technology**.
 - 🌱 I'm currently learning **Web development and English**. 
 - 🤔 My hobbies are **playing chess and running**.
@@ -82,9 +82,11 @@
 
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
+
 ```text
-Python   2 hrs 7 mins    █████████████████████████   100.00 % 
+Python   5 mins          █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 **If you like this readme file, please give me star! ❤️**
